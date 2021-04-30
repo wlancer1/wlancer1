@@ -12,7 +12,6 @@
 - ⚡ Fun fact: ...
 
 <br >
-<h4 align="center">Some technologies I have used recently!</h4>
 
 <br >
 <br >
