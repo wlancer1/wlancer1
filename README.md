@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on dzg and exploring innovative solutions in JavaScript and Node.js.
+- 🔭 I previously worked at dzg, where I explored innovative solutions in JavaScript and Node.js. I’m currently studying in Japan and preparing to find a job here.
 - 🌱 I’m currently learning TypeScript, Node.js, and diving deeper into backend development tools.
 - 👯 I’m looking to collaborate on open-source projects or anything related to JavaScript, TypeScript, and backend systems.
 - 🤔 I’m looking for help with scaling Node.js applications and advanced functional programming techniques.
